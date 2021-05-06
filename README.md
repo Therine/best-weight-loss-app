@@ -23,3 +23,4 @@ Requirements
 - [ ] Calculate the TDEE from the daily actual weight and calories logged.
 - [ ] Complete a day and calculate what weight the person would be at if everyday was like that day.
 - [ ] Store the calculated weight from the complete the day requirement and that date this it was projected for so you can compare that value with the current moving average weight value.
+- [ ] Detect patterns of food intake, TDEE, and weight.
